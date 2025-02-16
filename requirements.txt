@@ -1,0 +1,11 @@
+Flask
+numpy
+pandas
+seaborn
+Streamlit
+torch
+matplotlib
+transformers==4.27.1
+datasets==2.9.0
+accelerate==0.17.1
+evaluate==0.4.0
